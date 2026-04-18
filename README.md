@@ -1,4 +1,4 @@
-# 🚀 Opofly — Tu copiloto para las oposiciones
+# 🚀 Opofly, tu copiloto para las oposiciones
 
 > **Estudia más inteligente. Aprueba más rápido.**  
 > La plataforma todo-en-uno para opositores que quieren su plaza.
